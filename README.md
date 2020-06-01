@@ -1,6 +1,6 @@
 # Fullstack Academy Async Week Algorithms
 
-This is the repo for Jasmin's 10:30am Async Algo sessions for the 2004 Cohort.
+This is the repo for Esther's 11am EST Async Algo sessions for the 2004 Cohort.
 
 Each day I will add an additional algorithm problem and solution to this repo. **Only interviewers** will look at the solution file before we meet.
 

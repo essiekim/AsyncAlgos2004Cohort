@@ -66,7 +66,7 @@ fib(64) // returns 6557470319842
 ```javascript
 function fib(num) {
   // Fancy way of writing the base case: if num is 1 return 0 and if num is 2 return 1
-  if (num < 2) return num - 1
+  if (num <= 2) return num - 1
   //Recursive Case
   else return fib(num - 1) + fib(num - 2)
 }
